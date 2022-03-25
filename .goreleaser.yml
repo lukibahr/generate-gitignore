@@ -1,0 +1,8 @@
+gitlab_urls:
+  api: https://gitlab.dm-drogeriemarkt.com/api/v4/
+  download: https://gitlab.dm-drogeriemarkt.com
+  # set to true if you use a self-signed certificate
+  skip_tls_verify: false
+  # set to true if you want to upload to the Package Registry rather than attachments
+  # Only works with GitLab 13.5+
+  use_package_registry: false

@@ -1,0 +1,6 @@
+xplicit:
+  case:
+    - name: goreleaser with github
+      description: goreleaser and golanci-lint github action
+    - name: (WIP) get.sh script gitlab pages
+      description: gt.sh shell script to download and install a custom go binary
